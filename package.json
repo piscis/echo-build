@@ -1,4 +1,3 @@
-
 {
   "name": "echo-build",
   "version": "1.0.0",
@@ -11,7 +10,8 @@
     "url": "https://github.com/piscis/echo-build/issues"
   },
   "scripts": {
-    "test": "echo build",
+    "start": "echo start",
+    "test": "echo build"
   },
   "engines": {
     "node": "8.9.1",
