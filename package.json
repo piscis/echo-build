@@ -1,0 +1,21 @@
+
+{
+  "name": "echo-build",
+  "version": "1.0.0",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/piscis/echo-build.git"
+  },
+  "bugs": {
+    "url": "https://github.com/piscis/echo-build/issues"
+  },
+  "scripts": {
+    "test": "echo build",
+  },
+  "engines": {
+    "node": "8.9.1",
+    "npm": "5.4.0"
+  },
+  "dependencies": {}
+}
